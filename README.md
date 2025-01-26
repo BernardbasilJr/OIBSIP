@@ -35,4 +35,4 @@ And then the insights were visualized using Power BI.
   ![powerBI Dashboard](https://github.com/user-attachments/assets/5e6c60e2-bb06-4cf5-a7f2-cbdd77966ea7)
 
    
-    In Conclusion, This analysis reveals how customer behaviours can affect sales in the shopping malls and it helps stakeholders in decision making that will optimize sales and increase revenue in the shopping malls
+In Conclusion, This analysis reveals how customer behaviours can affect sales in the shopping malls and it helps stakeholders in decision making that will optimize sales and increase revenue in the shopping malls
