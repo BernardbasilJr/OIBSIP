@@ -10,7 +10,7 @@ And then the insights were visualized using Power BI.
 4. Analyze sales trend over time
 5. Presenting findings through visualizations.
 
-
+## DATASET USED
 ## STEPS TAKEN TO PREPARE DATA FOR ANALYSIS
 1. I removed trailing spaces in the 'Invoice_date' column using the LTRIM and RTRIM functions in SQL.
 2. I created a new 'Date_Of_Invoice' column using the 'ALTER TABLE' clause.
